@@ -1,4 +1,4 @@
 # DasX
- Расширение для Twitch
+Twitch Extension
 
-## Version: 1.0.3
+## Version: 0.0.3
